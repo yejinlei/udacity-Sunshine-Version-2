@@ -11,3 +11,5 @@
 
 4. 尽量不要硬编码；字符串统一存放在values\strings.xml
 
+# Sunshine-Version-2
+
