@@ -13,3 +13,12 @@
 
 # Sunshine-Version-2
 
+# Other
+## Android Studio快捷键
+	ctrl+o    重写父类方法
+	ctrl+j    自动代码    
+
+
+
+
+
